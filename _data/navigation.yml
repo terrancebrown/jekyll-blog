@@ -1,5 +1,5 @@
 main:
   - title: "Pages"
     url: /page-archive/
-  - title: "Collections"
+  - title: "About"
     url: about.markdown
