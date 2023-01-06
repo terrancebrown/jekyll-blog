@@ -1,5 +1,3 @@
 main:
-  - title: "Pages"
-    url: /page-archive/
   - title: "About"
-    url: /about.markdown
+    url: /about.html
