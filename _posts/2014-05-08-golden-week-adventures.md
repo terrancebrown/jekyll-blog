@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Golden Week Adventures
 subtitle: Exploring Nagano
 date: 2014-05-08

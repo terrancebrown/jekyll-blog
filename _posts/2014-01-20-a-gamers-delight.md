@@ -1,4 +1,5 @@
 ---
+layout: single
 title: A Gamer’s Delight
 subtitle: The Joy of Spelunky
 date: 2014-01-20

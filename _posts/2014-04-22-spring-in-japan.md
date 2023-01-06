@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Spring in Japan
 subtitle: Blossoming
 date: 2014-04-22

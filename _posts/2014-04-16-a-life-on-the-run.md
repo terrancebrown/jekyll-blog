@@ -1,4 +1,5 @@
 ---
+layout: single
 title: A Life on the Run
 subtitle: The Running Man
 date: 2014-04-16

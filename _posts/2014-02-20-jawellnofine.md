@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Jawellnofine
 subtitle: There's No Place Like Home
 date: 2014-02-20

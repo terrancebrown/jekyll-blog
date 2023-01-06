@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Publish by Day One
 subtitle: A Better Way to Journal
 date: 2014-03-12

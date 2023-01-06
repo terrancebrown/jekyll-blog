@@ -1,4 +1,5 @@
 ---
+layout: single
 title: The Narrow Roads of Japan
 subtitle: Road Rash
 date: 2014-10-24

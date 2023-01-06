@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Fond Farewells
 subtitle: The End of a Generation
 date: 2014-01-30

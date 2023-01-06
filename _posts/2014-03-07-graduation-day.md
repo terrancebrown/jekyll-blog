@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Graduation Day
 subtitle: Moving On Up
 date: 2014-03-07

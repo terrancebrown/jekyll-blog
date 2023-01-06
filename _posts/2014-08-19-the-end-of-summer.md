@@ -1,4 +1,5 @@
 ---
+layout: single
 title: The End of Summer
 layout: post
 date: 2014-08-19

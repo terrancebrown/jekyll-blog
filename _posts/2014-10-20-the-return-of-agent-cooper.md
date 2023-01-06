@@ -1,4 +1,5 @@
 ---
+layout: single
 title: The Return of Agent Cooper
 subtitle: A Damn Fine Cup of Coffee
 date: 2014-10-20

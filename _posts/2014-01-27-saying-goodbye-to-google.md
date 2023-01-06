@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Saying Goodbye To Google
 subtitle: Thanks For All The Fish
 date: 2014-01-27

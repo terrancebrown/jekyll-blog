@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Thoughts on FastMail
 subtitle: A Better Email Client
 date: 2014-02-21

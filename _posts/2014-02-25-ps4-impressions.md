@@ -1,4 +1,5 @@
 ---
+layout: single
 title: PS4 Impressions
 subtitle: For The Players
 date: 2014-02-25

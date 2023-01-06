@@ -1,4 +1,5 @@
 ---
+layout: single
 title: An Unchanging Life
 subtitle: Everything Isn't The Same
 date: 2014-01-30

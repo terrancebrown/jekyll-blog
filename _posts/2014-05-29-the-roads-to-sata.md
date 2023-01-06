@@ -1,4 +1,5 @@
 ---
+layout: single
 title: The Roads to Sata
 subtitle: Discovering Japan through Alan Booth
 date: 2014-05-29

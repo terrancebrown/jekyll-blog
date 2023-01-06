@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Staying Fit in the Cold of Winter
 subtitle: Gotta Keep Off That Winter Fat
 date: 2014-12-15

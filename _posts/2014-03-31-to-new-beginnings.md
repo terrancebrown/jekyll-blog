@@ -1,4 +1,5 @@
 ---
+layout: single
 title: To New Beginnings
 subtitle: Ringing in the New Academic Year
 date: 2014-03-31

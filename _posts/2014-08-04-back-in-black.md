@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Back in Black
 subtitle: A Short But Sweet Update
 date: 2014-08-04

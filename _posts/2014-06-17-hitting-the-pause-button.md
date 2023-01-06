@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Hitting the Pause Button
 subtitle: Inundated With Paperwork
 date: 2014-06-17

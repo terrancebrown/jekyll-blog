@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Adventures in Broken Age
 subtitle: Adventure Gaming Returns!
 date: 2014-04-14

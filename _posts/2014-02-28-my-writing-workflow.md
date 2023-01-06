@@ -1,4 +1,5 @@
 ---
+layout: single
 title: My Writing Workflow
 subtitle: 
 date: 2014-02-28

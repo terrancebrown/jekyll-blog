@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Games Streaming and YouTube
 subtitle: Big Business
 date: 2014-05-20

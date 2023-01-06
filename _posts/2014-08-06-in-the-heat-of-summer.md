@@ -1,4 +1,5 @@
 ---
+layout: single
 title: In the Heat of Summer
 subtitle: Burning Up
 date: 2014-08-06

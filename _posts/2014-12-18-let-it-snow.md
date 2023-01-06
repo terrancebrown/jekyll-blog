@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Let it Snow!
 subtitle: The Cooling Power of Snow
 date: 2014-12-18

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: And Back to Ghost We Go
 subtitle: Spinning the Blogging Wheel
 date: 2014-03-27

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Seeing Japan Anew
 layout: post
 date: 2014-10-16

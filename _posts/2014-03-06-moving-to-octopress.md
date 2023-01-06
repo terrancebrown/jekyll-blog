@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Moving to Octopress
 subtitle: Embracing SSG
 date: 2014-03-06

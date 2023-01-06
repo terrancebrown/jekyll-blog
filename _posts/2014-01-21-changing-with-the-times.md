@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Changing With The Times
 subtitle: On Reading
 date: 2014-01-21

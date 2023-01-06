@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Of Parties and Fish
 subtitle: Something Fishy
 date: 2014-04-11

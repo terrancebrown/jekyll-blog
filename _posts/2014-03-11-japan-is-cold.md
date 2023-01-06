@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Japan is Cold!
 subtitle: Hell Hath No Fury Like Snow
 date: 2014-03-11

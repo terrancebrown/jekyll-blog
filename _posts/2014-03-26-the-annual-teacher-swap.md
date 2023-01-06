@@ -1,4 +1,5 @@
 ---
+layout: single
 title: The Annual Teacher Swap
 subtitle: The Game of Musical Chairs
 date: 2014-03-26

@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Is Streaming Good for Gaming?
 subtitle: Rise of the Streamers
 date: 2014-05-15

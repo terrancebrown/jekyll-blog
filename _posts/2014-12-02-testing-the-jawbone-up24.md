@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Testing the Jawbone Up24
 subtitle: Data is Power
 date: 2014-12-02

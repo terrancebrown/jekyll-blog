@@ -1,4 +1,5 @@
 ---
+layout: single
 title: See You, Space Cowboy
 subtitle: Mercenaries in Space
 date: 2014-10-29

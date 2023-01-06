@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Thoughts on iOS 8
 layout: post
 date: 2014-09-19
