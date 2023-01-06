@@ -1,0 +1,5 @@
+main:
+  - title: "Pages"
+    url: /page-archive/
+  - title: "Collections"
+    url: about.markdown
