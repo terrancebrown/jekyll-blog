@@ -1,7 +1,6 @@
 ---
 layout: single
 title: 'Giant Robots & Japan'
-layout: post
 date: 2014-08-12
 tags: ["japan"]
 ---
