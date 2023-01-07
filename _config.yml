@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : Meanderings and musings
 name                     : "Terrance Brown"
 description              : "Meanderings on stationery, gaming, books, and the universe."
-url                      : https://regal-twilight-60846b.netlify.app # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alifeabroad.netlify.app # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
