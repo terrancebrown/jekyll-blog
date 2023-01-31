@@ -1,7 +1,6 @@
 ---
 layout: single
 title: On Being Sick in Japan
-layout: post
 date: 2014-09-16
 tags: ["personal"]
 ---

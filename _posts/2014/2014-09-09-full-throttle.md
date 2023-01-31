@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Full Throttle
-layout: post
 date: 2014-09-09
 tags: ["japan"]
 ---
