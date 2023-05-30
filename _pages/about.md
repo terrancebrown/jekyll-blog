@@ -11,7 +11,7 @@ For the first 30 years of my life I lived in Cape Town before I jetted off to Ja
 
 I first lived in the southern wilds of Kagoshima where I had gorgeous weather and the majestic Sakurajima keeping me company before I moved to a small rural town in the south part of Nagano prefecture where I taught English at two high schools as well as trying to soldier on through the dreadful winters that Nagano is burdened with every winter.
 
-I then spent a few years in Shanghai, China, where I taught English.
+I then spent a few years in Shanghai, China, where I taught English, and ghot to explore the wonderful world of Chinese street food.
 
 I'm currently running my own business while also trying to tackle my ever-growing pile of books to be read. I still manage to get some gaming in over the weekends which helps me relax after a long week of work.
 
@@ -26,7 +26,9 @@ No matter how you ended up on my blog I hope you’ll enjoy reading through past
 When it comes to using social media, I prefer to use decentralized, open, and free social networks.
 
 You can find me on the following services:
- 1. [Mastodon](https://fosstodon.org/@merkaba) – An alternative to Twitter. Join one of the hundreds of [community servers](https://joinmastodon.org/communities) available, or [start your own](https://docs.joinmastodon.org/user/run-your-own/)!
- 2. [Bookwyrm](https://bookrastinating.com/user/Merkaba) – A federated alternative to Goodreads. Currently, invite-only but it’s easy enough to request an invite from me or the service’s creator.
+ 1. [Mastodon](https://social.lol/@terrance) – An alternative to Twitter. Join one of the hundreds of [community servers](https://joinmastodon.org/communities) available, or [start your own](https://docs.joinmastodon.org/user/run-your-own/)!
+ 2. [Bookwyrm](https://bookwyrm.social/user/merkaba) – A federated alternative to Goodreads. Currently, invite-only but it’s easy enough to request an invite from me or the service’s creator.
  3. [PixelFed](https://pixelfed.social/merkaba) – A federated alternative service to Instagram. Many [servers](https://pixelfed.org/servers) open for registration.
  4. [LinkedIn](https://www.linkedin.com/in/terrancebrownza/) – A network for professionals. Hopefully I can shift off this soon to [Flockingbird](https://flockingbird.social/).
+
+You can find all my other numerous sites and miscellaneous links [here](https://terrance.omg.lol/).

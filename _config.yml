@@ -23,12 +23,12 @@ name                     : "Terrance Brown"
 description              : "Meanderings on stationery, gaming, books, and the universe."
 url                      : "https://terrancebrown.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "terrancebrown/jekyll-blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 280
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -113,9 +113,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:terranceb@gmail.com"
-    - label: "Website"
+    - label: "Links"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://terrance.omg.lol/"  
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -135,21 +135,24 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
+    - label: "Mastodon"
+      icon: "fab fa-brands fa-mastodon"
+      url: "https://social.lol/@terrance"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/mr.terrance.brown/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/terrancebrown"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://gitlab.com/terrancebrown"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/merkabaza/"
 
 
 # Reading Files
