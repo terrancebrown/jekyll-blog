@@ -21,6 +21,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-paginate"
   gem "jekyll-sass-converter", "~> 2.0"
+  gem "jekyll-archives"
 #gem "algolia"
   gem "jekyll-algolia"
 end
