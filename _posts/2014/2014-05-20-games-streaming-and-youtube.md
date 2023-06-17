@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Games Streaming and YouTube
-subtitle: Big Business
-date: 2014-05-20
 tags: ["gaming"]
 ---
 So hot on the heels of my last post about the viability of streaming for the games industry in which I remarked on the popularity of Twitch it has now been [rumored that YouTube is looking to buy Twitch for a cool $1 billion][1].

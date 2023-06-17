@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Fond Farewells
-subtitle: The End of a Generation
-date: 2014-01-30
 tags: ["gaming"]
 ---
 As I was walking to the local convenience store this morning it struck me that this weekend will be my last *official* weekend of gaming on my old PS3. After this weekend I'll be heading to South Africa for a short holiday before coming back to Japan and the weekend that I get back will be when the PS4 releases here in the land of the rising sun.

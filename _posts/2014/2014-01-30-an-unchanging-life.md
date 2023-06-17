@@ -1,8 +1,5 @@
 ---
-layout: single
 title: An Unchanging Life
-subtitle: Everything Isn't The Same
-date: 2014-01-30
 tags: ["personal"]
 ---
 It's a few months short of three years that I've now being living in Japan and in a week I'll be travelling home to South Africa for a short holiday. The only problem is that the person who is going back to South Africa is not the same person who left South Africa in 2011.

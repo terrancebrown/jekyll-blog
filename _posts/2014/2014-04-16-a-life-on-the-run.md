@@ -1,8 +1,5 @@
 ---
-layout: single
 title: A Life on the Run
-subtitle: The Running Man
-date: 2014-04-16
 tags: ["personal"]
 ---
 A few years back if you'd asked me if there was any chance of me becoming a regular jogger I'd have probably died from laughter. Fast forward to now though and most days after I get home from school I strap on pair of trainers and take to the roads winding through the rice fields near my apartment.

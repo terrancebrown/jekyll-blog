@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Of Parties and Fish
-subtitle: Something Fishy
-date: 2014-04-11
 tags: ["japan"]
 ---
 So after all the movement of teachers and students during the end of March and the start of April it's finally gotten a bit more settled at school with only the final welcome _enkai_ later today remaining before the new school year starts in full earnest with the official opening ceremony.
@@ -21,4 +18,4 @@ It's going to feel great to get back in the swing of teaching classes again afte
 
 What's with the mention of fish in the title you ask? Well our staff welcome party saw myself and my JTEs eating fish that was grilled alive over hot coals. Not the most pleasant of experiences!
 
-{% include video id="OZYyPLlWpeM" provider="youtube" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZYyPLlWpeM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

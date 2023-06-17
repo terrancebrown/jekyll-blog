@@ -1,8 +1,5 @@
 ---
-layout: single
 title: PS4 Impressions
-subtitle: For The Players
-date: 2014-02-25
 tags: ["gaming"]
 ---
 With the release of Sony's PS4 system in Japan on 22 February I decided to pick up a console for myself. Since moving to Japan I've moved to Sony's platform for almost all of my gaming (The Xbox 360 is all but non-existent here and the Xbox One hasn't even officially been given a release date yet.) and as I've never really bought a console at launch I thought I might as well give it a shot and see what all the fuss is about.

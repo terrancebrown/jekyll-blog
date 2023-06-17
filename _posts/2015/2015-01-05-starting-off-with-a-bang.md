@@ -1,5 +1,5 @@
 ---
-titel: "Starting Off With a Bang"
+title: "Starting Off With a Bang"
 tags: ["personal"]
 ---
 It's a brand new year and if you haven't noticed yet the site has also been revamped with the [Casperion theme][1] so that it no longer has the basic default theme that ships with Ghost. Truth be told the redesign came about due to a failed upgrade attempt which meant I had to redo a lot of the back-end of my site so it was the perfect chance to do some much needed tinkering behind the scenes and get things looking a bit brighter for 2015.

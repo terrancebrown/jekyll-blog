@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Golden Week Adventures
-subtitle: Exploring Nagano
-date: 2014-05-08
 tags: ["japan"]
 ---
 The end of April and the start of May in Japan is always the best no matter what your job or where you are. It’s a glorious period know as Golden Week, which is the Japanese equivalent of Easter holidays in the there’s a slew of national holidays that see all and sundry take to the roads and the sky on their way to a week-long vacation.

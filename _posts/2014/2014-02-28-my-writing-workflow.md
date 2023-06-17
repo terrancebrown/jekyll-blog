@@ -1,8 +1,5 @@
 ---
-layout: single
 title: My Writing Workflow
-subtitle: 
-date: 2014-02-28
 tags: ["writing"]
 ---
 One of the things I do most frequently on my laptop is to type out notes and documents. Whether it's a draft blog post or a few paragraphs of fiction, I've ended up using a combination of Ulysses III, Byword and Marked for nearly all my documents.

@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Saying Goodbye To Google
-subtitle: Thanks For All The Fish
-date: 2014-01-27
 tags: ["tech"]
 ---
 Leaving Google seems almost the hipster thing to do these days but the more research I've done the more it seems as though the power users and geek users out there are opting to move to paid email platforms or open source alternatives rather than relying on the big G as they once used to. Just look at the recent backlash from many Nest users when Google spent $3.2 billion to buy Nest. Many people were turned off by the potential that Google would be gaining even _more_ information about them.

@@ -1,11 +1,8 @@
 ---
-layout: single
 title: Moving to Octopress
-subtitle: Embracing SSG
-date: 2014-03-06
 tags: ["writing"]
 ---
-So the first thing you might notice if you've been here before is that the site looks vastly different from before. Previously I was running it on an instance of Ghost 0.4.1. The second thing you might notice is that the site is no longer hosted on kibayanse.com, but rather a vanity URL - terrancebrown.me
+So the first thing you might notice if you've been here before is that the site looks vastly different from before. Previously I was running it on an instance of Ghost 0.4.1. The second thing you might notice is that the site is no longer hosted on kibayanse.com, but rather a vanity URL - [terrancebrown.me](https://terrancebrown.me)
 
 So why the change? I love trying out new tech and software and my blogging is no stranger to that. I'd tried out Octopress a month or two back and liked it. It's simple and yet at the same time gives you a lot of power over customization without sacrificing speed. Since it's a static site generator it also does all the data grinding before pushing your site up to the internet. This means you won't have to worry about dealing with a database that might make your site less responsive.
 
@@ -26,6 +23,6 @@ There are still some further changes I'd like to make once I get a chance:
   * I'd like to bring in a list of all the articles I've written for other publications.
   * I want to try to make the site more of portfolio site with a blog rather than just a straight up blog.
 
-The final change was to swap over all the content from kibayanse.com to terrancebrown.me. The reasoning here was that since I want this site to act as the central hub for all my internet interactivity it was best to keep it at a domain that *represents* me. kibyanse.com is just shifted over to my Tumblr blog where you can find all the random things I find around the web if that sort of thing interests you.
+The final change was to swap over all the content from kibayanse.com to [terrancebrown.me](https://terrancebrown.me). The reasoning here was that since I want this site to act as the central hub for all my internet interactivity it was best to keep it at a domain that *represents* me. kibyanse.com is just shifted over to my Tumblr blog where you can find all the random things I find around the web if that sort of thing interests you.
 
 So there you have it, the reasoning for yet another change to my blog. Hopefully this will be the last major shake up to the site. Any further changes to the blogging platform will be far in the future once Ghost reaches the point where I'm comfortable using it to run a more robust and functional site.

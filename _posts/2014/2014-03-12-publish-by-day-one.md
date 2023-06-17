@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Publish by Day One
-subtitle: A Better Way to Journal
-date: 2014-03-12
 tags: ["writing"]
 ---
 Before starting up this blog I’d had a break of about 3 years when I did no writing on the web. My previous blogs all went the way of the dodo and due to my move to Japan I had to stop writing for the various sites and publications I was working for back in South Africa.

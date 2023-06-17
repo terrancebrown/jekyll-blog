@@ -1,8 +1,5 @@
 ---
-layout: single
 title: The Roads to Sata
-subtitle: Discovering Japan through Alan Booth
-date: 2014-05-29
 tags: ["books"]
 ---
 One thing I always get asked is why I chose to come to Japan and my usual answer is that I came here because I wanted to try my hand at teaching and because I have an appreciation of Japanese history and culture. The truth is that is only part of the why I really ended up living here.

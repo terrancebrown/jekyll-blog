@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Jawellnofine
-subtitle: There's No Place Like Home
-date: 2014-02-20
 tags: ["personal"]
 ---
 What a hectic past week it's been! I've just returned from my trip to South Africa and it feels a little bit sad to be back actually. For all it's crime and poverty, South Africa is still such a beautiful and amazing country that everyone should try to visit at least once in their lives.

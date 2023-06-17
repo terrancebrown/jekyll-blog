@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Spring in Japan
-subtitle: Blossoming
-date: 2014-04-22
 tags: ["japan"]
 ---
 Spring in Japan is one of the most beautiful seasons anywhere in the world. Every street and park is filled with cherry blossom trees in full bloom and families and groups of office workers eating and drinking under the trees.

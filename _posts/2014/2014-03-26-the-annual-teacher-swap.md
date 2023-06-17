@@ -1,8 +1,5 @@
 ---
-layout: single
 title: The Annual Teacher Swap
-subtitle: The Game of Musical Chairs
-date: 2014-03-26
 tags: ["japan"]
 ---
 Every year at the end of March there's a lot of important events in schools around Japan. Not only are the students finally coming to the end of the academic year and the hundreds of tests that they have had to endure but the teachers themselves find out if they will be staying or transfer to another school.

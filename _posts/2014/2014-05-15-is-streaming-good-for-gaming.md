@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Is Streaming Good for Gaming?
-subtitle: Rise of the Streamers
-date: 2014-05-15
 tags: ["gaming"]
 ---
 With PC gamers long having had multiple ways to capture and stream gaming footage it’s still taken a rather long time for streaming to become popular, but recently sites such as Twitch and Ustream have seen surges with the availability of capture devices such as the Elgato Game Capture HD.

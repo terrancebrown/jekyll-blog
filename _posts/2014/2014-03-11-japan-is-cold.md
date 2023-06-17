@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Japan is Cold!
-subtitle: Hell Hath No Fury Like Snow
-date: 2014-03-11
 tags: ["japan"]
 ---
 One of the biggest shocks to my system when I first moved to Japan as just how cold the winters here can be. Now those of you who come from the US or Canada will be laughing at me and telling me that your winters get just as cold if not more so, but what you've got to realize is that South Africa has particularly mild winters paired with hot, dry summers.

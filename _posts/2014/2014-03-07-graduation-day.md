@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Graduation Day
-subtitle: Moving On Up
-date: 2014-03-07
 tags: ["japan"]
 ---
 This week was the graduation ceremony for the third years at my main high school. It's the main event of the school year and all the staff and students try their best to make sure that everything goes off without a hitch.

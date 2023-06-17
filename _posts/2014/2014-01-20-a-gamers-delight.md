@@ -1,8 +1,5 @@
 ---
-layout: single
 title: A Gamer’s Delight
-subtitle: The Joy of Spelunky
-date: 2014-01-20
 tags: ["gaming"]
 ---
 The longer I sit here trying to type out a long and complicated analysis of Spelunky the more it hits me: Spelunky is at its core the ‘Ultimate Game’.

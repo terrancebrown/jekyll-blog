@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Hitting the Pause Button
-subtitle: Inundated With Paperwork
-date: 2014-06-17
 tags: ["personal"]
 ---
 It’s been a while since I’ve had a chance to sit down and knock out a few hundred words for this here blog. With good reason though as I’ve been rushing to and fro in my quest to obtain a visa extension for give me another few years in Japan as my original visa is about to reach the end of its usefulness.

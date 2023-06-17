@@ -1,8 +1,5 @@
 ---
-layout: single
 title: Changing With The Times
-subtitle: On Reading
-date: 2014-01-21
 tags: ["books"]
 ---
 I recently read an article detailing the decrease in the number of books read by the average American adult but rather than finding this something to be sad about in some ways there were a few positives to it.
