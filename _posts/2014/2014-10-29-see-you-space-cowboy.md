@@ -3,7 +3,7 @@ layout: single
 title: See You, Space Cowboy
 subtitle: Mercenaries in Space
 date: 2014-10-29
-tags: ["TV"]
+tags: ["tv"]
 ---
 Nowadays I don't watch much anime which is pretty surprising given that I live in Japan and used to watch epic amounts of anime as a college student and young adult.
 

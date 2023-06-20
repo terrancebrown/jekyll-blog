@@ -3,7 +3,7 @@ layout: single
 title: The Return of Agent Cooper
 subtitle: A Damn Fine Cup of Coffee
 date: 2014-10-20
-tags: ["TV"]
+tags: ["tv"]
 ---
 
 It's hard to believe that a show such as *Twin Peaks* is now a quarter of a century old when it feels like just the other day that I was enthralled in the lives of the show's characters and the underlying mystery of the town of [Twin Peaks][1] itself.
