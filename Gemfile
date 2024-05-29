@@ -22,8 +22,6 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sass-converter", "~> 2.0"
   gem "jekyll-archives"
-#gem "algolia"
-  gem "jekyll-algolia"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
